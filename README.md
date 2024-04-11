@@ -2,6 +2,9 @@
 YOLOv8 with ROS1
 Referece: https://github.com/mgonzs13/yolov8_ros
 =============
+Install
+=============
+Ubuntu 20.04 + ROS noetic
 ```
 $ git clone https://github.com/HJH0303/YOLOv8_ROS1.git
 $ pip3 install -r YOLOv8_ROS1/requirements.txt
