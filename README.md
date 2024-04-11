@@ -4,3 +4,4 @@ Referece: https://github.com/mgonzs13/yolov8_ros
 
 roslaunch yolov8_ros yolov8_3d.launch 
  
+Detection image topic name: /dbg_image
