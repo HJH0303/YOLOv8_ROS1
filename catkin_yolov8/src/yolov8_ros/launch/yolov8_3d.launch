@@ -1,0 +1,9 @@
+<launch>
+
+  <!-- <node name="detect_3d_node" type="detect_3d_node.py" pkg="yolov8_ros" output="screen"/> -->
+  <node name="debug_node" type="debug_node.py" pkg="yolov8_ros" output="screen"/>
+  <node name="yolov8_node" type="yolov8_node.py" pkg="yolov8_ros" output="screen"/>
+ 
+  
+
+</launch>
