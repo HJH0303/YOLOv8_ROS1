@@ -13,6 +13,7 @@ $ catkin build
 ```
 Usage
 =============
+You can use YOLO v8 segmentation, detection, tracking. 
  ```
 roslaunch yolov8_ros yolov8_3d.launch 
  ```
